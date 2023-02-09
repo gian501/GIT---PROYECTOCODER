@@ -8,3 +8,4 @@ def curso(self):
     curso
     documentoDeTexto = f"--> Curso:{curso.nombre} comision:{curso.comision}"
     return HttpResponse(documentoDeTexto)
+# aqui agregamos algo
